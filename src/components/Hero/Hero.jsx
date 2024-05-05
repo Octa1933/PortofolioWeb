@@ -8,16 +8,15 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Akmal</h1>
         <p className={styles.description}>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero impedit
-          nemo porro ipsam commodi amet voluptatum itaque? Accusantium
-          doloremque iusto repellendus ullam!
+          I am currently pursuing my undergraduate degree in Information
+          Technology, with a specialization in UI/UX Design and Web Development.
         </p>
         <a href="mailto:myemail@email.com" className={styles.contanctBtn}>
-          Contanct Me
+          Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/akmal_profile.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

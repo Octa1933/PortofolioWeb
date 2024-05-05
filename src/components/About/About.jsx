@@ -10,7 +10,7 @@ export const About = () => {
       {/* Bungkusan Kontent */}
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/character.png")}
           alt="Me Sitting in laptop"
           className={styles.aboutImage}
         />
@@ -21,8 +21,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>FrontEnd Developer</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-                deleniti ducimus non.
+                Have worked on several projects as a FrontEnd Developer since
+                2020.
               </p>
             </div>
           </li>
@@ -33,8 +33,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>BackEnd Developer</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem,
-                provident!
+                Currently Learning about BackEnd and have worked on several
+                personal projects.
               </p>
             </div>
           </li>
@@ -45,8 +45,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Mollitia, itaque!
+                Learned UI/UX design since 2022 and have worked on several
+                projects.
               </p>
             </div>
           </li>
