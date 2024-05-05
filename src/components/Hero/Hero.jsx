@@ -6,7 +6,7 @@ export const Hero = () => {
   return (
     <sectionc className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hi, I'm Akmal</h1>
         <p className={styles.description}>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero impedit
           nemo porro ipsam commodi amet voluptatum itaque? Accusantium
