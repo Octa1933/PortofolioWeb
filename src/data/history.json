@@ -1,0 +1,25 @@
+[
+  {
+    "education": "Infinite Learning Study Independent",
+    "startDate": "16 Feb 2024",
+    "endDate": "30 Jun 2024",
+    "experiences": ["Studied on UI/UX and Web Development"],
+    "imageSrc": "history/infinitelearning.png"
+  },
+  {
+    "education": "Universitas Gunadarma",
+    "startDate": "2021",
+    "endDate": "Present",
+    "experiences": ["Studying at Gunadarma in the Information Technology"],
+    "imageSrc": "history/gundar_logo.png"
+  },
+  {
+    "education": "SMK Prestasi Prima",
+    "startDate": "2018",
+    "endDate": "2021",
+    "experiences": [
+      "Attending Prestasi Prima Vocational School in the Software Engineering."
+    ],
+    "imageSrc": "history/pp.png"
+  }
+]
